@@ -62,7 +62,6 @@ body {
     text-align: left;
     background-color:#849966;
     overflow-x: hidden;
-overflow-y: hidden;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
