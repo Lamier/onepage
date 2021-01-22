@@ -36,56 +36,7 @@
     --font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace
 }
 
-#purpbut{
-    color: white;
-}
-#textwall{
-    background-color: #6D928A;
-}
-#picscroll{
-background-color: #926D75;
-}
-.nav-item{
-}
-#fixd{
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: white;
-}
-#wel{
-    margin-left:64px;
-    user-select: none;
-}
-#logo{
-top: -100px;
--webkit-clip-path: inset(0px -50px 90px 0px);
-clip-path: inset(0px -50px 90px 0px);
-}
 
-#navcen{
-margin-left: 43%;
-}
-
-#head{
-    padding-left: 0px;
-    margin-left: 0px;
-    height: 100px;
-overflow-wrap: hidden;
-}
-
-#headtext{
-    top: -80px;
-    color: white;
-}
-
-#biggon{
-    color: orange;
-    min-height: 50%;
-    height: 100%;
-
-}
 *, ::after, ::before {
     box-sizing: border-box
 }
